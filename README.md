@@ -10,7 +10,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝    
 </pre>
 
-- 🌱 I’m currently learning C++, Java, Python, etc...
+- 🌱 I’m currently learning C, C++, Java, Python, etc...
 
 
 
